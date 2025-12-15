@@ -1,15 +1,13 @@
 {titulo: 1. DOXOLOGIA}
-{tom: C}
+{tom: G}
 
-[C]Justo é o Senhor em seus [G]santos caminhos,
-[Am]Benigno em [G/B]todas [C]as [D4]suas [D]obras. (bis)
+J[G]usto é o Senhor em seus s[D]antos ca[G]minhos,
+B[Em]enigno em   [D/F#]to__d[G]as  as  [A4]su__[A]as   [D]obras. (bis)
 
 {coro}
-[G]Perto es[C]tá o Se[C7]nhor, (perto está dos que o invocam,)
-[F]De todos [C]que o in[Dm]vocam [G](De todos [C]que o invocam)
-[F]Em ver[G]dade. 
+P[D]erto est[G]á o Senh[C]o__[D]or,
+[G]Per[G7]to est[C]á    [G/B]dos   [Am]que   [D]o  in[G]vo_[G/B]cam,
+De t[C]odos  [Am]que o in[G]vo_[Am]cam
+[C]Em  v[D]er_d[G]ade.
 {fim}
-
-[C]Ale[F]luia!
-[C/G]Ale  [G]lu  [C]ia!   [F]    [C]
-
+Alel[G]uia!       Alel[C]u___i[G]a!
