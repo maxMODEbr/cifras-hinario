@@ -1,4 +1,5 @@
 {titulo: 1. DOXOLOGIA}
+{tom: C}
 
 [C]Justo é o Senhor em seus [G]santos caminhos,
 [Am]Benigno em [G/B]todas [C]as [D4]suas [D]obras. (bis)
