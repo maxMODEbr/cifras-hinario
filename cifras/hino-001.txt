@@ -1,6 +1,4 @@
 {titulo: 1. DOXOLOGIA}
-{sub: Hinário Presbiteriano Novo - C 4/4}
-{tom: C}
 
 [C]Justo é o Senhor em seus [G]santos caminhos,
 [Am]Benigno em [G/B]todas [C]as [D4]suas [D]obras. (bis)
@@ -8,6 +6,8 @@
 {coro}
 [G]Perto es[C]tá o Se[C7]nhor, (perto está dos que o invocam,)
 [F]De todos [C]que o in[Dm]vocam [G](De todos [C]que o invocam)
-[F]Em ver[G]dade. [C]Ale[F]luia!
-[C/G]Ale  [G]lu_[C]ia! [F] [C]
+[F]Em ver[G]dade. 
+
+[C]Ale[F]luia!
+[C/G]Ale__[G]lu__[C]ia! [F] [C]
 {fim}
