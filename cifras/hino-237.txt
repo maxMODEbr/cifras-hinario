@@ -1,7 +1,7 @@
 {titulo: 237 - Jesus Nasceu}
 {tom: D}
 
-[D]Vin_[A7/E]de    ca[D/F#]ntai  Je[D/A]sus  [A7]nasc[D]eu!
+[D]Vin_[A7/E]de    ca[D/F#]ntai  Je_[D/A]sus  [A7]nasc[D]eu!
 À [G]terra a l[A]uz desc[D]eu!
 A g[D]ra__[G/D]ça   inf[D]inda ao mun[G/D]do    v[D]em,
 Na gr[D]uta   [Bm]de Be[D/F#]lém, na g[A]ruta  [E]de Be[Em]lém,
