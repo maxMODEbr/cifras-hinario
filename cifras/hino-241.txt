@@ -1,53 +1,53 @@
 {titulo: 241 - O Nascimento de Jesus}
-{tom: D}
+{tom: E}
 
-M[D]al supõe aq[G]uela g[D]ente
-Q[D]ue em Bel[A]ém quer [E]ir pa[A]rar,
-Q[D]ue uma luz tão [G]refulg[D]ente
-V[D]ai   [Bm]a___[Em]li      b[A]ri__l[D]har.
+M[E]al supõe aq[A]uela g[E]ente
+Q[E]ue em Bel[B]ém quer [F#]ir pa[B]rar,
+Q[E]ue uma luz tão [A]refulg[E]ente
+V[E]ai   [C#m]a____[F#m]li        [B]bri__[E]lhar.
 
-[Em]É por [A]anjos [D]anun[Bm]ciado,
-[Em]E os pas[E]tores [A]lo__[E]go  [A]vêem
-Q[D]ue o Senhor, por D[G]eus man[D]dado,
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+[F#m]É por [B]anjos [E]anun[C#m]ciado,
+[F#m]E os pas[F#]tores [B]lo__[F#]go  [B]vêem
+Q[E]ue o Senhor, por D[A]eus man[E]dado,
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 
 {coro}
-V[D]inde ouvir a d[Em]oce hist[A]ória,
-Q[D]ue dos [Bm]altos  [Em]céus  n[E]os  v[A]em!
-[D]O Messias,  R[G]ei da gl[D]ória,
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+V[E]inde ouvir a d[F#m]oce hist[B]ória,
+Q[E]ue dos [C#m]altos  [F#m]céus  n[F#]os  v[B]em!
+[E]O Messias,  R[A]ei da gl[E]ória,
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 {fim}
 
-M[D]undo triste, v[G]em! Desp[D]erta!
-T[D]eus grilh[A]ões def[E]eitos s[A]ão!
-T[D]ens a porta fr[G]anca ab[D]erta;
-S[D]ai   [Bm]da    [Em]vil     [A]pri___[D]são!
+M[E]undo triste, v[A]em! Desp[E]erta!
+T[E]eus grilh[B]ões def[F#]eitos s[B]ão!
+T[E]ens a porta fr[A]anca ab[E]erta;
+S[E]ai   [C#m]da       [F#m]vil      [B]pri___[E]são!
 
-[Em]Não hes[A]ites, [D]duvi[Bm]doso,
-[Em]Esse d[E]om do c[A]éu p[E]ro_[A]vém;
-C[D]risto, o Todo-P[G]oder[D]oso,
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+[F#m]Não hes[B]ites, [E]duvi[C#m]doso,
+[F#m]Esse d[F#]om do c[B]éu p[F#]ro_[B]vém;
+C[E]risto, o Todo-P[A]oder[E]oso,
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 
 {coro}
-V[D]inde ouvir a d[Em]oce hist[A]ória,
-Q[D]ue dos [Bm]altos  [Em]céus  n[E]os  v[A]em!
-[D]O Messias,  R[G]ei da gl[D]ória,
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+V[E]inde ouvir a d[F#m]oce hist[B]ória,
+Q[E]ue dos [C#m]altos  [F#m]céus  n[F#]os  v[B]em!
+[E]O Messias,  R[A]ei da gl[E]ória,
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 {fim}
 
-P[D]roclamai a t[G]odo m[D]undo,
-T[D]oda r[A]aça, t[E]oda c[A]or:
-C[D]risto, em seu am[G]or pro[D]fundo,
-S[D]al__[Bm]va  o [Em] pe__[A]ca__[D]dor!
+P[E]roclamai a t[A]odo m[E]undo,
+T[E]oda r[B]aça, t[F#]oda c[B]or:
+C[E]risto, em seu am[A]or pro[E]fundo,
+S[E]al__[C#m]va    o [F#m] pe__[B]ca__[E]dor!
 
-[Em]Confi[A]ança n[D]ele [Bm]tende,
-[Em]Não desp[E]reza[A]rá  n[E]in_g[A]uém!
-V[D]inde, os braços v[G]os est[D]ende!
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+[F#m]Confi[B]ança n[E]ele [C#m]tende,
+[F#m]Não desp[F#]reza[B]rá  n[F#]in_g[B]uém!
+V[E]inde, os braços v[A]os est[E]ende!
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 
 {coro}
-V[D]inde ouvir a d[Em]oce hist[A]ória,
-Q[D]ue dos [Bm]altos  [Em]céus  n[E]os  v[A]em!
-[D]O Messias,  R[G]ei da gl[D]ória,
-N[D]as__[Bm]ce    [Em]em    [A]Be_[D]lém.
+V[E]inde ouvir a d[F#m]oce hist[B]ória,
+Q[E]ue dos [C#m]altos  [F#m]céus  n[F#]os  v[B]em!
+[E]O Messias,  R[A]ei da gl[E]ória,
+N[E]as__[C#m]ce      [F#m]em    [B]Be_[E]lém.
 {fim}
