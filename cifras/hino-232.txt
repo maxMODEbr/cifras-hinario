@@ -1,23 +1,23 @@
 {titulo: 232 - PEQUENA VILA DE BELÉM}
-{tom: F}
+{tom: D}
 
-Peq[F]uena vila [Gm]de Belém, Re[F/C]pousa em t[C]eu dorm[F]ir,
-Enq[F]uanto os [D]astros  [Gm] lá no céu es[F/C]tão a [C7]refulg[F]ir.
-Por[F]ém, nas t[Gm]uas   [A]trevas Resp[Dm]len__[C/E]de    [F]eter__[Gm]na     [A]luz,
-I[F]ncomparável, [Gm]divinal: Nas[F/C]ceu o b[C]om Jes[F]us!
+Peq[D]uena vila [Em]de Belém, re[D/A]pousa em t[A]eu dorm[D]ir,
+Enq[D]uanto os [B]astros  [Em] lá no céu es[D/A]tão a [A7]refulg[D]ir.
+Por[D]ém, nas t[Em]uas   [F#]trevas resp[Bm]len__[A/C#]de    [D]eter__[Em]na     [F#]luz,
+I[D]ncomparável, [Em]divinal: nas[D/A]ceu o b[A]om Jes[D]us!
 
-Da v[F]irgem mãe nas[Gm]ceu Jesus! Vós a[F/C]njos   p[C]roclam[F]ai
-As b[F]oas-n[D]ovas   [Gm]lá dos céus, E a [F/C]Deus lou[C7]vores d[F]ai!
-Est[F]relas [Gm]matu__[A]tinas, Em h[Dm]i___[C/E]nos   [F]de   [Gm]lou___v[A]or,
-A[F]os anjos e homens p[Gm]roclamai De D[F/C]eus o et[C]erno a[F]mor.
+Da v[D]irgem mãe nas[Em]ceu Jesus! Vós a[D/A]njos   p[A]roclam[D]ai
+As b[D]oas-n[B]ovas   [Em]lá dos céus, e a [D/A]Deus lou[A7]vores d[D]ai!
+Est[D]relas [Em]matu__[F#]tinas, em h[Bm]i___[A/C#]nos   [D]de   [Em]lou___v[F#]or,
+A[D]os anjos e homens p[Em]roclamai de D[D/A]eus o et[A]erno a[D]mor.
 
-O d[F]om glorioso, [Gm]divinal Ne[F/C]nhum estr[C]ondo f[F]az,
-As[F]sim, aos [D]homens, [Gm]o Senhor Con[F/C]cede a  g[C7]raça e p[F]az.
-Ser[F]eno e [Gm]sem al[A]arde Vem [Dm]ele   [C/E]ao    [F]mun___[Gm]do   ass[A]im,
-T[F]razendo aos homens [Gm]Redenção, [F/C]Amor e p[C]az sem f[F]im.
+O d[D]om glorioso, [Em]divinal ne[D/A]nhum estr[A]ondo f[D]az,
+As[D]sim, aos [B]homens, [Em]o Senhor con[D/A]cede a  g[A7]raça e p[D]az.
+Ser[D]eno e [Em]sem al[F#]arde vem [Bm]ele   [A/C#]ao    [D]mun___[Em]do   ass[F#]im,
+T[D]razendo aos homens [Em]redenção, [D/A]amor e p[A]az sem f[D]im.
 
-Oh! V[F]em morar nos [Gm]corações, D[F/C]ivino R[C]ei, Jes[F]us,
-E fa[F]ze-os [D]entre[Gm]ver no céu Vi[F/C]sões de t[C7]ua   l[F]uz.
-A[F]li proc[Gm]lamam [A]anjos De [Dm]Deus [C/E]o a__m[F]or   [Gm]fi___[A]el!
-O[F]h! Vem, Senhor, aqui rei[Gm]nar, E[F/C]terno Em[C]anu__[F]el.
-[Bb]A____[F]mém.
+Oh! V[D]em morar nos [Em]corações, d[D/A]ivino R[A]ei, Jes[D]us,
+E fa[D]ze-os [B]entre[Em]ver no céu vi[D/A]sões de t[A7]ua   l[D]uz.
+A[D]li proc[Em]lamam [F#]anjos de [Bm]Deus [A/C#]o a__m[D]or   [Em]fi___[F#]el!
+O[D]h! Vem, Senhor, aqui rei[Em]nar, e[D/A]terno Em[A]anu__[D]el.
+[G]A____[D]mém.
