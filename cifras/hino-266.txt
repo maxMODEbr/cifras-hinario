@@ -1,4 +1,4 @@
-{titulo: 266. RUDE CRUZ}
+{titulo: 266 - RUDE CRUZ}
 {tom: A}
 {sub: Filipenses 2.8,9}
 
