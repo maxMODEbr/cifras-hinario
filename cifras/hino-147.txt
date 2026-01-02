@@ -13,7 +13,8 @@ G[G]lória, glória, ale[G]lu__[B7]____[Em]ia!
 Ven[Am]cendo v[D]em Jes[G]us!    [D7]
 {fim}
 
-Neste m[G]undo havemos, crentes, de ter sempre algum pes[G7]ar!
+Neste m[G]undo havemos, crentes, 
+De ter sempre algum pes[G7]ar!
 Mesmo l[C]utas, dissabores, nossa p[G]az vêm perturb[D7]ar.
 Mas se o m[G]al nos ameaça e aleg[B7]ria nos rou[Em]bar,
 Ven[Am]cendo v[D]em Jes[G]us   [D7]
@@ -23,7 +24,7 @@ Gl[G]ória, glória, aleluia!
 Gl[C]ória, glória, alel[G]uia!
 G[G]lória, glória, ale[G]lu__[B7]____[Em]ia!
 Ven[Am]cendo v[D]em Jes[G]us!    [D7]
-{fim}
+{fim]
 
 Da vaid[G]ade, fiéis servos lutam por fazer-nos s[G7]eus!
 Muitas vez[C]es nos assaltam os mod[G]ernos faris[D7]eus
@@ -35,4 +36,4 @@ Gl[G]ória, glória, aleluia!
 Gl[C]ória, glória, alel[G]uia!
 G[G]lória, glória, ale[G]lu__[B7]____[Em]ia!
 Ven[Am]cendo v[D]em Jes[G]us!
-{fim}
+{fim
